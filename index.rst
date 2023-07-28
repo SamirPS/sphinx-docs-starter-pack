@@ -5,7 +5,7 @@ This starter pack contains the files you need to quickly set up your Sphinx docu
 
 Before you start, see the information about `Read the Docs at Canonical`_ and the instructions for `How to publish documentation on Read the Docs`_.
 
-Then, to start setting up your docs, check the :doc:`ReadMe <readme>` for instructions.
+Then, to start setting up your docs, **check** the :doc:`ReadMe <readme>` for instructions.
 The `Example product documentation`_ shows how to set up a Diátaxis structure in Sphinx.
 
 For quick help on reST or MyST syntax, see the :file:`doc-cheat-sheet.rst.txt` or :file:`doc-cheat-sheet-myst.md.txt` files in the repository.
